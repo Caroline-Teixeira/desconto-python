@@ -1,2 +1,2 @@
 # desconto-python
-Exercício decomo calcular desconto de 5% 
+Exercício de como calcular desconto de 5% 
